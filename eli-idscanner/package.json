@@ -1,0 +1,19 @@
+{
+  "name": "eli-idscanner",
+  "version": "1.0.0",
+  "description": "Cordova plugin for Aadhaar/DL OCR with Vision API and Tesseract.js",
+  "cordova": {
+    "id": "eli-idscanner",
+    "platforms": ["android", "ios"]
+  },
+  "keywords": [
+    "cordova",
+    "ocr",
+    "aadhaar",
+    "driving-license",
+    "vision-api",
+    "tesseract"
+  ],
+  "author": "Vibe Coding",
+  "license": "MIT"
+}

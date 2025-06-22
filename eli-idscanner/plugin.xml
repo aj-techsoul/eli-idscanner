@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="eli-idscanner" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+  <name>eli-idscanner</name>
+  <js-module src="www/eli-idscanner.js" name="EliIDScanner">
+    <clobbers target="eli.idscan" />
+  </js-module>
+</plugin>
